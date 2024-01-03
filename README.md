@@ -22,7 +22,7 @@ This program provides a set of string manipulation operations written in 16-bit 
 
 ## Demo
 
-Check out the [video demo](https://youtu.be/cFxu4Ki1Lwg) to see the program in action.
+Check out [![Video Demo](https://i.ytimg.com/vi/cFxu4Ki1Lwg/maxresdefault.jpg)](https://youtu.be/cFxu4Ki1Lwg) to see the program in action.
 
 ## How to Run
 
