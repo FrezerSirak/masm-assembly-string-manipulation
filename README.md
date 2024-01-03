@@ -22,7 +22,11 @@ This program provides a set of string manipulation operations written in 16-bit 
 
 ## Demo
 
-Check out [![Video Demo](https://i.ytimg.com/vi_webp/cFxu4Ki1Lwg/mqdefault.webp)](https://youtu.be/cFxu4Ki1Lwg) to see the program in action.
+Check out video demo to see the program in action.
+
+[![Video Demo](https://i.ytimg.com/vi_webp/cFxu4Ki1Lwg/mqdefault.webp)](https://youtu.be/cFxu4Ki1Lwg)
+
+
 
 ## How to Run
 
